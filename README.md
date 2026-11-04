@@ -16,7 +16,7 @@ There isn't much here, but I'll continue to add more over time.
 - [Coding Projects](https://capperj123.github.io/Coding-Projects/)
 
 ## Links/Sites
-- [YouTube](https://www.youtube.com/@CheekClapperJ69)
+- [LinkedIn](https://www.linkedin.com/in/jules-chambers-17a15a347/)
 
   
 
