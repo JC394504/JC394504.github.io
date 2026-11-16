@@ -13,7 +13,7 @@ So I needed somewhere to save them just in case my computer fails.
 There isn't much here, but I'll continue to add more over time.
 
 ## Projects
-- [Coding Projects](https://capperj123.github.io/Coding-Projects/)
+- [Coding Projects](https://jc394504.github.io/Coding-Projects/)
 
 ## Links/Sites
 - [LinkedIn](https://www.linkedin.com/in/jules-chambers-17a15a347/)
